@@ -1,62 +1,61 @@
-<h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">🚀 Passionate Computer Science & Engineering Student | Full-Stack Developer | Problem Solver</h3>
+<!-- 👋 Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Piyush+Kumar!;Computer+Science+%26+Engineering+Student;Full-Stack+Developer;Tech+Explorer+%26+Problem+Solver+💻" alt="Typing SVG" />
+</h1>
+
+---
+
+<h3 align="center">🚀 Passionate about building impactful digital experiences.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyushkk0206&label=Profile%20views&color=0e75b6&style=flat" alt="piyushkk0206" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-- 🎓 **BTech in Computer Science & Engineering** at Lovely Professional University (2023–2027)  
-- 💻 Interested in **Web Development**, **Software Engineering**, and **System Design**  
-- 🚀 Building **NexaMart**, a marketing platform for B2B & B2C transactions  
-- 🌱 Currently learning **Advanced JavaScript**, **React**, and **Backend Optimization**  
-- 📫 How to reach me: **piyushkk0206@gmail.com**  
-- ⚡ Fun fact: I love debugging more than coding 😄  
+- 🎓 **BTech in Computer Science & Engineering**, Lovely Professional University (2023–2027)  
+- 💻 Exploring **Full-Stack Development**, **Software Design**, and **Problem Solving**  
+- 🚀 Working on **NexaMart** — A Marketing Platform for B2B & B2C Sellers  
+- 🌱 Currently learning **React.js**, **API Integration**, and **Backend Architecture**  
+- 💬 Ask me about **Web Development**, **System Design**, or **C++/Java Projects**  
+- 📫 Reach me: **piyushkk0206@gmail.com**  
+- ⚡ Fun fact: I debug in dark mode 🌙
 
 ---
 
-### 🛠️ Tech Stack
+### 💼 Tech Toolbox
 
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=coffeescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+#### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,tailwind,js,php,mysql&theme=dark" />
 </p>
 
-#### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-#### ⚙️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+#### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,windows&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=piyushkk0206&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkk0206&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushkk0206&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkk0206&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkk0206&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkk0206&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=piyushkk0206&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -71,8 +70,32 @@
 
 ---
 
+### ⚙️ Fun Animation
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyushkk0206&theme=onedark&no-frame=true&row=1"/>
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="250">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" width="250">
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/piyushkk0206">Piyush Kumar</a></p>
+---
+
+### 💬 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+### 🐍 Watch My Contributions Snake 🐍
+<p align="center">
+  <img src="https://github.com/piyushkk0206/piyushkk0206/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!;Have+a+great+day+ahead+🌟" alt="Goodbye message" />
+</p>
+
+---
+
+⭐️ **From [Piyush Kumar](https://github.com/piyushkk0206)**
