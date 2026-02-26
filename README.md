@@ -1,101 +1,79 @@
-<!-- 👋 Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Piyush+Kumar!;Computer+Science+%26+Engineering+Student;Full-Stack+Developer;Tech+Explorer+%26+Problem+Solver+💻" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi, I'm Piyush Kumar 👋</h1>
+<h3 align="center">Computer Science & Engineering Student | Full-Stack Developer</h3>
 
 ---
 
-<h3 align="center">🚀 Passionate about building impactful digital experiences.</h3>
+## 🧠 About Me
+
+- 🎓 BTech in Computer Science & Engineering (2023–2027)  
+  Lovely Professional University, Punjab  
+- 💻 Full-Stack Development Enthusiast  
+- 🚀 Currently building **NexaMart** – A Marketing Platform (B2B & B2C)  
+- 🌱 Learning React.js, Backend Architecture & API Integration  
+- 💬 Interested in Web Development, System Design & DSA  
+- 📫 Email: **piyushkk0206@gmail.com**  
+- 🌙 Preferred Mode: Dark  
+
+---
+
+## 💼 Technical Skills
+
+### 💻 Programming Languages
+- C  
+- C++  
+- Java  
+- Python  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- Tailwind CSS  
+- JavaScript  
+- PHP  
+- MySQL  
+
+### 🛠 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Linux & Windows  
+
+---
+
+## 🚀 Projects
+
+### 🔹 NexaMart – Marketing Platform
+- Seller registration & inventory management  
+- B2B & B2C transaction support  
+- Admin approval workflow  
+- Dynamic image preview using JavaScript  
+- Built using HTML, Tailwind CSS, JavaScript, PHP & MySQL  
+
+### 🔹 Personal Portfolio Website
+- Responsive design  
+- Showcases skills & projects  
+- Hosted on free hosting  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushkk0206&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkk0206&layout=compact&theme=default" width="48%" />
 </p>
 
 ---
 
-### 🧠 About Me
-
-- 🎓 **BTech in Computer Science & Engineering**, Lovely Professional University (2023–2027)  
-- 💻 Exploring **Full-Stack Development**, **Software Design**, and **Problem Solving**  
-- 🚀 Working on **NexaMart** — A Marketing Platform for B2B & B2C Sellers  
-- 🌱 Currently learning **React.js**, **API Integration**, and **Backend Architecture**  
-- 💬 Ask me about **Web Development**, **System Design**, or **C++/Java Projects**  
-- 📫 Reach me: **piyushkk0206@gmail.com**  
-- ⚡ Fun fact: I debug in dark mode 🌙
-
----
-
-### 💼 Tech Toolbox
-
-#### 💻 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,tailwind,js,php,mysql&theme=dark" />
-</p>
-
-#### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,windows&theme=dark" />
-</p>
-
----
-
-### 📊 GitHub Analytics
+## 🌍 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushkk0206&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkk0206&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkk0206&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyushkk0206&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 🌍 Connect With Me
-
-<p align="center">
-  <a href="mailto:piyushkk0206@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/piyushkk0206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="http://nexamartstore.wuaze.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-### ⚙️ Fun Animation
-<p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="250">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" width="250">
-</p>
-
----
-
-### 💬 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-### 🐍 Watch My Contributions Snake 🐍
-<p align="center">
-  <img src="https://github.com/piyushkk0206/piyushkk0206/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="mailto:piyushkk0206@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/piyushkk0206/">LinkedIn</a> •
+  <a href="http://nexamartstore.wuaze.com/">Portfolio</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!;Have+a+great+day+ahead+🌟" alt="Goodbye message" />
+  ⭐ Always learning. Always building.
 </p>
-
----
-
-⭐️ **From [Piyush Kumar](https://github.com/piyushkk0206)**
