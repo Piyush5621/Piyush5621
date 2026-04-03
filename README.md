@@ -1,6 +1,6 @@
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Piyush+Kumar;Backend+Developer;BTech+CSE+Student+@+LPU;DSA+Enthusiast;Building+Scalable+Systems" />
+  <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
