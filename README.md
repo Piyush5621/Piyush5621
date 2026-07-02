@@ -76,7 +76,7 @@
 ## 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/CgQSZLUGS0?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/piyush5621?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
 ---
