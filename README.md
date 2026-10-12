@@ -3,15 +3,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Piyush+Kumar;Backend+%26+Distributed+Systems;AI+%26+RAG+Pipeline+Architect;600%2B+LeetCode+Problems+Solved+⚡;BTech+CSE+@+Lovely+Professional+University" alt="Typing SVG" />
 </p>
 
-<!-- 🏡 Coding From Home Picture -->
+<!-- 🏡 Coding From Home Picture At Top -->
 <p align="center">
-  <img width="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding From Home" />
+  <img width="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding From Home" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
 <h3 align="center">Backend Developer | BTech CSE @ LPU | Problem Solver</h3>
 
-<!-- 🌐 Quick Connect Badges -->
+<!-- 🌐 Connect With Me Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/piyushkumar5621" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -36,18 +36,29 @@
 
 ---
 
-<!-- ✅ ORIGINAL RIGHT-ALIGNED DEVELOPER CODING IMAGE -->
-<p align="right">
-  <img width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding" />
-</p>
+<!-- 👨‍💻 ABOUT ME (PREVIOUS DETAILED VERSION WITH NEON CODING ANIMATION) -->
+## 👨‍💻 About Me
 
-## 🚀 About Me
-- 🎓 **BTech in Computer Science & Engineering (2023–2027)**, Lovely Professional University (**CGPA: 8.13**)  
-- 💻 **Backend-focused Developer** specializing in Scalable Systems, High-Concurrency APIs, and Microservices  
-- 🧠 **AI & Distributed Architecture:** Retrieval-Augmented Generation (**RAG**) pipelines, local vector embeddings (`pgvector`), PostgreSQL, Redis caching, and BullMQ worker queues  
-- ⚡ **Problem Solving:** Solved **600+ LeetCode problems** (200-Day Daily Streak Badge 🏅) and earned a **5-Star Java Rating** on HackerRank  
-- 💬 *Code is not just logic, it's creativity & architecture.*  
-- ⚡ *Fun fact: I enjoy breaking systems... just to rebuild them faster & better 😄*  
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        Hey there! I'm <strong>Piyush Kumar</strong>, a Computer Science undergraduate at <strong>Lovely Professional University</strong> (2023–2027) with a strong foundation in backend architecture, distributed systems, and real-world full-stack development.
+      </p>
+      <ul>
+        <li>🎓 <strong>Education:</strong> BTech in CSE, Lovely Professional University (<strong>CGPA: 8.13</strong>)</li>
+        <li>💻 <strong>Backend Focus:</strong> High-throughput Node.js & Express systems, RESTful API design, JWT authentication, and asynchronous worker queues.</li>
+        <li>🧠 <strong>AI & Systems:</strong> Retrieval-Augmented Generation (<strong>RAG</strong>) with vector embeddings (PostgreSQL + <code>pgvector</code>), Redis caching, and BullMQ task queues.</li>
+        <li>⚡ <strong>Problem Solving:</strong> <strong>600+ LeetCode problems</strong> solved (200-Day Streak Badge 🏅) and <strong>5⭐ in Java</strong> on HackerRank.</li>
+        <li>📫 <strong>Get in Touch:</strong> <a href="mailto:piyushkk0206@gmail.com">piyushkk0206@gmail.com</a> | <code>+91-9798526058</code></li>
+        <li>💬 <strong>Philosophy:</strong> <em>"I enjoy breaking systems... just to re-engineer them faster and stronger."</em> 😄</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="340" alt="Developer Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -123,7 +134,7 @@
 <div align="center">
   <!-- Exact Animated Spotify Player Card -->
   <a href="https://open.spotify.com/search/Eric%20Reprid%2080%20Proof" target="_blank">
-    <img src="https://github.com/Piyush5621/Piyush5621/blob/main/assets/spotify.svg?raw=true" alt="Spotify 80 Proof by Eric Reprid" width="460" />
+    <img src="./assets/spotify.svg" alt="Spotify 80 Proof by Eric Reprid" width="460" />
   </a>
 
   <br /><br />
@@ -149,7 +160,7 @@
   <img src="https://img.shields.io/badge/HackerRank-5%20Star%20Golden%20Java-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
 </p>
 
-<!-- ⚡ Dynamic LeetCode Heatmap & Performance Card -->
+<!-- ⚡ Dynamic LeetCode Heatmap & Performance Card (Real Data) -->
 <p align="center">
   <a href="https://leetcode.com/piyush5621/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/piyush5621?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Heatmap Card" />
@@ -158,7 +169,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Real Live Data)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush5621&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
@@ -170,14 +181,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush5621&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🧱 GitHub 3D Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/Piyush5621/Piyush5621/blob/main/profile-3d-contrib/profile-night-view.svg?raw=true" width="100%" alt="GitHub 3D Contribution Graph" />
 </p>
 
 ---
