@@ -356,7 +356,7 @@
 <div align="center">
   <!-- Visitor Count Hits Badge -->
   <a href="https://github.com/Piyush5621/Piyush5621">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPiyush5621%2FPiyush5621&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false" alt="HITS" />
+    <img src="https://komarev.com/ghpvc/?username=Piyush5621-hits&label=HITS&color=red&style=for-the-badge" alt="HITS" />
   </a>
 
   <br /><br />
