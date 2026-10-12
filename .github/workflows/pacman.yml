@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -16,8 +19,8 @@ jobs:
       - name: Generate Pac-Man Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: piyush5621
-          game: 'pacman'
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
 
       - name: Push to pacman-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

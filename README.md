@@ -321,6 +321,28 @@
 
 ---
 
+<!-- 🧱 GITHUB 3D CONTRIBUTION GRAPH -->
+## 🧱 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> GitHub 3D Contribution Graph
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="GitHub 3D Contribution Graph" />
+</p>
+
+---
+
+<!-- 🎮 PAC-MAN CONTRIBUTION HEATMAP -->
+## 🎮 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> Pac-Man Contribution Heatmap
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyush5621/Piyush5621/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piyush5621/Piyush5621/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Piyush5621/Piyush5621/pacman-output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
+
+---
+
 <!-- 🏆 CERTIFICATIONS & ACHIEVEMENTS -->
 ## 🏆 <img src="https://media.giphy.com/media/L0O3TQpp0WnSXmxV8p/giphy.gif" width="30"> Certifications & Achievements
 
