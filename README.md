@@ -1,6 +1,6 @@
-<!-- 🔥 Typing Animation -->
+<!-- 🔥 Animated Typing Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Piyush+Kumar;Backend+%26+Distributed+Systems;AI+%26+RAG+Pipeline+Architect;600%2B+LeetCode+Problems+Solved+⚡;BTech+CSE+@+Lovely+Professional+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Piyush+Kumar;Backend+%26+Distributed+Systems;AI+%26+RAG+Pipeline+Architect;600%2B+LeetCode+Problems+Solved+⚡;BTech+CSE+@+Lovely+Professional+University" alt="Typing SVG" />
 </p>
 
 <!-- 🏡 Coding From Home Picture At Top -->
@@ -8,10 +8,10 @@
   <img width="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding From Home" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">, I'm Piyush Kumar</h1>
 <h3 align="center">Backend Developer | BTech CSE @ LPU | Problem Solver</h3>
 
-<!-- 🌐 Connect With Me Badges -->
+<!-- 🌐 Quick Connect Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/piyushkumar5621" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -36,8 +36,8 @@
 
 ---
 
-<!-- 👨‍💻 ABOUT ME (PREVIOUS DETAILED VERSION WITH NEON CODING ANIMATION) -->
-## 👨‍💻 About Me
+<!-- 👨‍💻 ABOUT ME WITH ANIMATED HEADING & NEON CODING SETUP -->
+## 👨‍💻 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 <table>
   <tr>
@@ -62,40 +62,85 @@
 
 ---
 
-## 🔭 Currently Working On
-- **RecallAI:** AI-powered Knowledge Management & RAG Platform with vector search and asynchronous task processing  
-- **Karobaar:** Full-stack POS & Business Management platform with offline billing and financial analytics  
-- **Scalable Node.js & Express systems** and advanced DSA problem-solving  
+<!-- 🔭 CURRENTLY WORKING ON -->
+## 🔭 <img src="https://media.giphy.com/media/LpdlqTmgxqWvn4nQtF/giphy.gif" width="30"> Currently Working On
+- 🚀 **RecallAI:** AI-powered Knowledge Management & RAG Platform with vector search and asynchronous task processing  
+- 💼 **Karobaar:** Full-stack POS & Business Management platform with offline billing and financial analytics  
+- ⚡ **Scalable Node.js & Express systems** and advanced DSA problem-solving  
 
 ---
 
-## 🧠 Tech Stack
+<!-- 🛠️ COLORFUL TECH STACK & TOOLBOX -->
+## 🛠️ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM03wg/giphy.gif" width="30"> Tech Stack & Toolbox: `</>`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,cpp,c,py,nodejs,express,react,nextjs,tailwind,html,css,postgres,mysql,mongodb,redis,docker,githubactions,git,postman,vscode,linux,vercel&theme=dark" alt="Skill Icons" />
 </p>
 
-### 💻 Languages
-`Java` `JavaScript` `C++` `C` `Python` `SQL` `PHP`
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
 ### ⚙️ Backend & Architecture
-`Node.js` `Express.js` `REST APIs` `JWT Auth` `Redis` `BullMQ` `RAG Pipelines`
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BullMQ-FF4088?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
+</p>
 
-### 🎨 Frontend
-`React.js` `HTML5` `CSS3` `Tailwind CSS`
+### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-### 🗄️ Database & Vector
-`PostgreSQL (Supabase)` `pgvector` `MySQL` `MongoDB`
+### 🗄️ Databases & Vector Storage
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=cyan"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-### 🛠️ Tools & DevOps
-`Docker` `Git` `GitHub Actions` `Jenkins` `Postman` `VS Code` `Vercel` `Linux`
+### 🛠️ DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ### 🧠 Core Computer Science
-`Data Structures & Algorithms` `System Design` `DBMS` `Operating Systems` `OOPS`
+<p>
+  <img src="https://img.shields.io/badge/DSA-600%2B_Solved-4B0082?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System_Design-005F73?style=for-the-badge&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBMS-0A9396?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-94D2BD?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OOPS-EE9B00?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Projects
+<!-- 🚀 FEATURED PROJECTS -->
+## 🚀 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> Featured Projects
 
 ### 🔹 RecallAI – AI-Powered Knowledge Management & RAG Platform
 - Engineered an AI knowledge platform enabling users to upload, organize, and query documents via natural language with recursive text chunking and top-5 semantic retrieval.  
@@ -129,7 +174,8 @@
 
 ---
 
-## 🎧 Coding Soundtrack & Spotify Vibe
+<!-- 🎧 CODING SOUNDTRACK & SPOTIFY VIBE -->
+## 🎧 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Coding Soundtrack & Spotify Vibe
 
 <div align="center">
   <!-- Exact Animated Spotify Player Card -->
@@ -150,7 +196,8 @@
 
 ---
 
-## 🏆 LeetCode Stats & Submission Heatmap
+<!-- ⚔️ LEETCODE ARENA & SUBMISSION HEATMAP -->
+## ⚔️ <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> LeetCode Arena & Submission Heatmap
 
 <p align="center">
   <a href="https://leetcode.com/piyush5621/" target="_blank">
@@ -169,7 +216,8 @@
 
 ---
 
-## 📊 GitHub Stats (Real Live Data)
+<!-- 📊 GITHUB STATS (REAL LIVE DATA) -->
+## 📊 <img src="https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif" width="30"> GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush5621&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
@@ -185,7 +233,8 @@
 
 ---
 
-## 📜 Certifications & Achievements
+<!-- 🏆 CERTIFICATIONS & ACHIEVEMENTS -->
+## 🏆 <img src="https://media.giphy.com/media/L0O3TQpp0WnSXmxV8p/giphy.gif" width="30"> Certifications & Achievements
 
 ### 📜 Certifications
 - 🔹 **Build Generative AI Apps and Solutions** — *Infosys Springboard* (Sep 2025)  
@@ -199,14 +248,8 @@
 
 ---
 
-<!-- 💬 Daily Developer Inspiration Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Inspirational Developer Quote" />
-</p>
-
----
-
-## 🌐 Connect With Me
+<!-- 🌐 CONNECT WITH ME -->
+## 🌐 <img src="https://media.giphy.com/media/LnQjpWaONKLBh42oq3/giphy.gif" width="30"> Connect With Me
 
 <p align="center">
   <a href="mailto:piyushkk0206@gmail.com">
