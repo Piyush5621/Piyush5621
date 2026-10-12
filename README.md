@@ -142,35 +142,123 @@
 <!-- 🚀 FEATURED PROJECTS -->
 ## 🚀 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> Featured Projects
 
-### 🔹 RecallAI – AI-Powered Knowledge Management & RAG Platform
-- Engineered an AI knowledge platform enabling users to upload, organize, and query documents via natural language with recursive text chunking and top-5 semantic retrieval.  
-- Built an end-to-end **Retrieval-Augmented Generation (RAG)** pipeline with local 384-dimensional embeddings, PostgreSQL + `pgvector` semantic indexing, and Groq LLM integration.  
-- Implemented token-aware batching, controlled concurrency, and automated multi-model fallback across Groq and Gemini.  
-- Decoupled API and worker workloads using **Redis & BullMQ** for asynchronous document chunking and embedding generation.  
-- **Tech:** Node.js, Express.js, PostgreSQL, pgvector, Redis, BullMQ, RAG, Docker, Postman  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="28"> RecallAI — AI-Powered Knowledge Management & RAG Platform
+<p>
+  <img src="https://img.shields.io/badge/Status-Active%20Development-00F7FF?style=flat-square&logo=git&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Architecture-RAG%20%2B%20Microservices-blueviolet?style=flat-square"/>
+</p>
+
+> 🧠 *Enterprise AI knowledge engine enabling users to upload, query, and synthesize multi-source documents using local embeddings, vector retrieval, and LLM orchestration.*
+
+- ⚡ **Semantic RAG Pipeline:** Built end-to-end extraction, recursive text chunking, local 384-dimensional embeddings, and top-5 semantic retrieval with PostgreSQL + `pgvector`.
+- 🛡️ **Rate-Limit Resilience:** Token-aware batching and controlled concurrency managing TPM/RPM constraints across Groq and Gemini to eliminate API throttling.
+- 📦 **Asynchronous Processing:** Decoupled heavy document workloads using **Redis & BullMQ**, separating API and worker queues for scalable ingestion.
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=cyan"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BullMQ-FF4088?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-00F7FF?style=flat-square&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p>
+  <a href="https://github.com/Piyush5621" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  </a>
+</p>
 
 ---
 
-### 🔹 Karobaar – Business Management & POS Platform
-- Built role-based access control (RBAC) and JWT authentication with refresh tokens, paired with a POS billing module supporting discount/tax calculations, PDF invoices, and Pause billing via IndexedDB.  
-- Developed an inventory engine supporting FIFO batch tracking, product variants, and purchase orders, alongside a customer Khata ledger for credit tracking and WhatsApp reminders.  
-- Implemented financial analytics with cash flow forecasting, Google Gemini API for business query assistance, and Redis caching.  
-- **Tech:** React, Node.js, Express.js, PostgreSQL (Supabase), Redis, BullMQ, Tailwind CSS, JWT, REST APIs  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="28"> Karobaar — Business Management & POS Platform
+<p>
+  <img src="https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Domain-Retail%20ERP%20%26%20POS-orange?style=flat-square"/>
+</p>
+
+> 💼 *Full-featured POS and commerce platform supporting role-based access, offline pause billing, FIFO inventory management, and automated WhatsApp payment reminders.*
+
+- 💳 **POS Engine & Billing:** RBAC and JWT authentication with refresh tokens, tax/discount calculation, instant PDF invoice generation, and offline Pause billing via IndexedDB.
+- 📦 **Inventory & Ledger:** FIFO batch tracking, product variants, and purchase orders alongside a customer Khata ledger for credit tracking with automated WhatsApp payment alerts.
+- 📊 **Financial Analytics & AI:** Cash flow forecasting, Excel export generation, and integrated Google Gemini API for natural-language business query assistance.
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BullMQ-FF4088?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75C2?style=flat-square&logo=googlegemini&logoColor=white"/>
+</p>
+
+<p>
+  <a href="https://github.com/Piyush5621" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  </a>
+</p>
 
 ---
 
-### 🔹 Anarchy Bay – Digital Marketplace
-- Full-stack marketplace system with authentication, secure checkout, and product management.  
-- Responsive customer-facing modules (Landing, Browse, Listing, Help Center, Contact) with React and Tailwind CSS.  
-- Automated Docker and GitHub Actions workflows with dynamic search and category filtering.  
-- **Tech:** React, Node.js, Express.js, JavaScript, Supabase (PostgreSQL), Tailwind CSS, Docker, GitHub Actions  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="28"> Anarchy Bay — Digital Marketplace Platform
+<p>
+  <img src="https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Type-Digital%20Goods%20Marketplace-blue?style=flat-square"/>
+</p>
+
+> 🛒 *Full-stack digital marketplace featuring Supabase authentication, product management, and containerized deployment with Docker and GitHub Actions.*
+
+- 🤝 **Full-Stack Architecture:** Developed in a 3-member team with secure authentication, multi-vendor resource catalog, and frictionless checkout flows.
+- 🎨 **Responsive UI/UX:** Built Landing, Browse, Product Details, Help Center, and Contact modules using React & Tailwind CSS.
+- 🔄 **DevOps Automation:** Automated build and deployment pipelines via Docker and GitHub Actions with dynamic search and category filtering.
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+</p>
+
+<p>
+  <a href="https://github.com/Piyush5621" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  </a>
+</p>
 
 ---
 
-### 🔹 NexaMart – Marketing Platform
-- B2B + B2C platform with seller system & inventory management.  
-- Dynamic image preview using DOM & administrator approval workflow.  
-- **Tech:** HTML, Tailwind CSS, JS, PHP, MySQL  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="28"> NexaMart — B2B & B2C Marketing Platform
+<p>
+  <img src="https://img.shields.io/badge/Status-Live%20Platform-3B82F6?style=flat-square&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Commerce-B2B%20%2B%20B2C-purple?style=flat-square"/>
+</p>
+
+> 🏪 *Multi-vendor commercial platform supporting seller registration, real-time stock control, dynamic image previews, and admin approval workflows.*
+
+- 🛍️ **Dual Market Engine:** Integrated B2B and B2C workflows with seller dashboards and real-time inventory adjustments.
+- ⚡ **Dynamic DOM Previews:** Client-side image preview engine and responsive multi-screen layout.
+- 🛡️ **Admin Workflow:** Multi-tier verification pipeline for seller credentials and product approval.
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+<p>
+  <a href="http://nexamartstore.wuaze.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Platform-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/>
+  </a>
+</p>
 
 ---
 
