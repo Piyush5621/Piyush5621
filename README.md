@@ -376,18 +376,33 @@
 ---
 
 <div align="center">
-  <!-- Visitor Count Hits Badge -->
-  <a href="https://github.com/Piyush5621/Piyush5621">
-    <img src="https://komarev.com/ghpvc/?username=Piyush5621-hits&label=HITS&color=red&style=for-the-badge" alt="HITS" />
-  </a>
-
-  <br /><br />
-
-  <h3 style="color: #22c55e;">
-    Thanks for visiting my profile, see you next time! 🚀
-  </h3>
-
-  <p>
-    <em>Let's connect and build something impactful together!</em>
+  <!-- Real Live Profile Views Counter -->
+  <p align="center">
+    <a href="https://github.com/Piyush5621/Piyush5621">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=Piyush5621.Piyush5621&left_text=PROFILE%20VIEWS&left_color=181717&right_color=00F7FF&logo=github" alt="Profile Views" />
+    </a>
   </p>
+
+  <!-- Animated 3D Fluent Stickers -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="42" alt="Wave" />
+    &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="42" alt="Rocket" />
+    &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="42" alt="Sparkles" />
+  </p>
+
+  <!-- Dynamic Animated Typing Footer Message -->
+  <p align="center">
+    <a href="https://github.com/Piyush5621">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=22C55E&center=true&vCenter=true&width=620&lines=Thanks+for+visiting+my+profile!+🚀;See+you+next+time!+👋;Let's+build+something+impactful+together!+✨;Keep+innovating+and+coding!+💻" alt="Thanks for Visiting" />
+    </a>
+  </p>
+
+  <p align="center">
+    <em>⚡ Let's connect and build something impactful together! ⚡</em>
+  </p>
+
+  <!-- Animated Gradient Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
