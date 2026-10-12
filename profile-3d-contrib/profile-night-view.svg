@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="420" viewBox="0 0 840 420" fill="none">
+  <rect width="840" height="420" fill="#0d1117" rx="10"/>
+
+  <style>
+    .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11px; fill: #8b949e; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: bold; fill: #58a6ff; }
+    .stat-val { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: bold; fill: #e6edf3; }
+    .grid-line { stroke: #21262d; stroke-width: 0.8; }
+  </style>
+
+  <!-- Title / Range -->
+  <text x="740" y="32" class="label" text-anchor="end">2025-10-12 / 2026-10-12</text>
+
+  <!-- 3D Isometric Grid & Pillars -->
+  <g transform="translate(380, 210) scale(1.15)">
+    <!-- Base Plane -->
+    <path d="M -300 0 L 0 -130 L 300 0 L 0 130 Z" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+
+    <!-- Grid Lines -->
+    <path d="M -240 -26 L 60 104" class="grid-line"/>
+    <path d="M -180 -52 L 120 78" class="grid-line"/>
+    <path d="M -120 -78 L 180 52" class="grid-line"/>
+    <path d="M -60 -104 L 240 26" class="grid-line"/>
+
+    <path d="M -240 26 L 60 -104" class="grid-line"/>
+    <path d="M -180 52 L 120 -78" class="grid-line"/>
+    <path d="M -120 78 L 180 -52" class="grid-line"/>
+    <path d="M -60 104 L 240 -26" class="grid-line"/>
+
+    <!-- 3D Columns (Sample High Contribution Blocks) -->
+    <!-- Col 1 -->
+    <g transform="translate(-210, -10)">
+      <path d="M 0 0 L 15 -7 L 30 0 L 15 7 Z" fill="#39d353"/>
+      <path d="M 0 0 L 15 7 L 15 35 L 0 28 Z" fill="#26a641"/>
+      <path d="M 15 7 L 30 0 L 30 28 L 15 35 Z" fill="#006d32"/>
+    </g>
+    <!-- Col 2 -->
+    <g transform="translate(-180, -25)">
+      <path d="M 0 0 L 15 -7 L 30 0 L 15 7 Z" fill="#39d353"/>
+      <path d="M 0 0 L 15 7 L 15 55 L 0 48 Z" fill="#26a641"/>
+      <path d="M 15 7 L 30 0 L 30 48 L 15 55 Z" fill="#006d32"/>
+    </g>
+    <!-- Col 3 -->
+    <g transform="translate(-150, -15)">
+      <path d="M 0 0 L 15 -7 L 30 0 L 15 7 Z" fill="#26a641"/>
+      <path d="M 0 0 L 15 7 L 15 40 L 0 33 Z" fill="#196127"/>
+      <path d="M 15 7 L 30 0 L 30 33 L 15 40 Z" fill="#0e4429"/>
+    </g>
+    <!-- Col 4 -->
+    <g transform="translate(-120, -5)">
+      <path d="M 0 0 L 15 -7 L 30 0 L 15 7 Z" fill="#39d353"/>
+      <path d="M 0 0 L 15 7 L 15 25 L 0 18 Z" fill="#26a641"/>
+      <path d="M 15 7 L 30 0 L 30 18 L 15 25 Z" fill="#006d32"/>
+    </g>
+    <!-- Col 5 -->
+    <g transform="translate(-70, 15)">
+      <path d="M 0 0 L 15 -7 L 30 0 L 15 7 Z" fill="#39d353"/>
+      <path d="M 0 0 L 15 7 L 15 45 L 0 38 Z" fill="#26a641"/>
+      <path d="M 15 7 L 30 0 L 30 38 L 15 45 Z" fill="#006d32"/>
+    </g>
+    <!-- Col 6 -->
+    <g transform="translate(-30, -20)">
+      <path d="M 0 0 L 15 -7 L 30 0 L 15 7 Z" fill="#39d353"/>
+      <path d="M 0 0 L 15 7 L 15 65 L 0 58 Z" fill="#26a641"/>
+      <path d="M 15 7 L 30 0 L 30 58 L 15 65 Z" fill="#006d32"/>
+    </g>
+    <!-- Col 7 -->
+    <g transform="translate(10, 10)">
+      <path d="M 0 0 L 15 -7 L 30 0 L 15 7 Z" fill="#26a641"/>
+      <path d="M 0 0 L 15 7 L 15 30 L 0 23 Z" fill="#196127"/>
+      <path d="M 15 7 L 30 0 L 30 23 L 15 30 Z" fill="#0e4429"/>
+    </g>
+    <!-- Col 8 -->
+    <g transform="translate(60, 25)">
+      <path d="M 0 0 L 15 -7 L 30 0 L 15 7 Z" fill="#39d353"/>
+      <path d="M 0 0 L 15 7 L 15 40 L 0 33 Z" fill="#26a641"/>
+      <path d="M 15 7 L 30 0 L 30 33 L 15 40 Z" fill="#006d32"/>
+    </g>
+    <!-- Col 9 -->
+    <g transform="translate(120, 30)">
+      <path d="M 0 0 L 15 -7 L 30 0 L 15 7 Z" fill="#39d353"/>
+      <path d="M 0 0 L 15 7 L 15 50 L 0 43 Z" fill="#26a641"/>
+      <path d="M 15 7 L 30 0 L 30 43 L 15 50 Z" fill="#006d32"/>
+    </g>
+    <!-- Col 10 -->
+    <g transform="translate(170, 50)">
+      <path d="M 0 0 L 15 -7 L 30 0 L 15 7 Z" fill="#26a641"/>
+      <path d="M 0 0 L 15 7 L 15 25 L 0 18 Z" fill="#196127"/>
+      <path d="M 15 7 L 30 0 L 30 18 L 15 25 Z" fill="#0e4429"/>
+    </g>
+  </g>
+
+  <!-- Radar / Spider Chart (Top Right) -->
+  <g transform="translate(680, 130)">
+    <!-- Pentagons -->
+    <polygon points="0,-60 57,-18 35,48 -35,48 -57,-18" stroke="#30363d" fill="none" stroke-width="1"/>
+    <polygon points="0,-40 38,-12 23,32 -23,32 -38,-12" stroke="#21262d" fill="none" stroke-width="1"/>
+    <polygon points="0,-20 19,-6 11,16 -11,16 -19,-6" stroke="#21262d" fill="none" stroke-width="1"/>
+    <!-- Radar Area -->
+    <polygon points="0,-50 42,-14 26,38 -20,28 -40,-12" stroke="#39d353" fill="rgba(57, 211, 83, 0.35)" stroke-width="1.8"/>
+    <!-- Axis Labels -->
+    <text x="0" y="-68" class="label" text-anchor="middle">Commit</text>
+    <text x="70" y="-14" class="label" text-anchor="start">Issue</text>
+    <text x="44" y="62" class="label" text-anchor="start">PullReq</text>
+    <text x="-44" y="62" class="label" text-anchor="end">Review</text>
+    <text x="-70" y="-14" class="label" text-anchor="end">Repo</text>
+  </g>
+
+  <!-- Language Donut Pie Chart (Bottom Left) -->
+  <g transform="translate(130, 290)">
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#21262d" stroke-width="20"/>
+    <!-- Python Segment -->
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#3572A5" stroke-width="20" stroke-dasharray="160 300" stroke-dashoffset="0"/>
+    <!-- JS/TS Segment -->
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#3178C6" stroke-width="20" stroke-dasharray="80 300" stroke-dashoffset="-160"/>
+    <!-- HTML/Other Segment -->
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#E34F26" stroke-width="20" stroke-dasharray="35 300" stroke-dashoffset="-240"/>
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#89e051" stroke-width="20" stroke-dasharray="25 300" stroke-dashoffset="-275"/>
+
+    <!-- Legend -->
+    <g transform="translate(68, -35)">
+      <rect x="0" y="0" width="10" height="10" rx="2" fill="#3572A5"/>
+      <text x="16" y="9" class="label">Python</text>
+      <rect x="0" y="18" width="10" height="10" rx="2" fill="#3178C6"/>
+      <text x="16" y="27" class="label">TypeScript</text>
+      <rect x="0" y="36" width="10" height="10" rx="2" fill="#E34F26"/>
+      <text x="16" y="45" class="label">HTML</text>
+      <rect x="0" y="54" width="10" height="10" rx="2" fill="#89e051"/>
+      <text x="16" y="63" class="label">Java / other</text>
+    </g>
+  </g>
+
+  <!-- Total Summary at bottom -->
+  <g transform="translate(420, 395)" text-anchor="middle">
+    <text class="stat-val">
+      <tspan fill="#e3b341">600+</tspan> Contributions
+      <tspan fill="#8b949e">  •  </tspan>
+      <tspan fill="#58a6ff">⭐ Active Developer</tspan>
+      <tspan fill="#8b949e">  •  </tspan>
+      <tspan fill="#39d353">⚡ 200+ Streak Days</tspan>
+    </text>
+  </g>
+</svg>

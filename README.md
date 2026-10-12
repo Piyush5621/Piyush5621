@@ -1,5 +1,5 @@
 <!-- ======================================================= -->
-<!--                   HEADER & ANIMATION SECTION            -->
+<!--                   HEADER & DEVELOPER ANIMATION          -->
 <!-- ======================================================= -->
 
 <div align="center">
@@ -10,23 +10,19 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
 </p>
 
-<!-- 🚀 High-Tech Developer Coding Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="460" alt="Developer Workspace Animation" />
-</div>
-
-<br />
-
-<!-- 🌐 Quick Social Badges -->
+<!-- 🌐 Top Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/piyushkumar5621" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
   <a href="mailto:piyushkk0206@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/piyush5621/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://github.com/Piyush5621" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -35,6 +31,11 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+<!-- 🚀 High-Tech Developer Coding Workspace Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Developer Workspace Animation" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piyush5621&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views" />
@@ -184,6 +185,13 @@
 ## 🎧 Coding Soundtrack & Spotify Vibe
 
 <div align="center">
+  <!-- Exact Animated Spotify Player Card -->
+  <a href="https://open.spotify.com/search/Eric%20Reprid%2080%20Proof" target="_blank">
+    <img src="assets/spotify.svg" alt="Spotify 80 Proof by Eric Reprid" width="460" />
+  </a>
+
+  <br /><br />
+
   <p>
     <a href="https://open.spotify.com" target="_blank">
       <img src="https://img.shields.io/badge/Spotify-Listening%20Now-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
@@ -191,14 +199,92 @@
     <img src="https://img.shields.io/badge/Vibe-Late%20Night%20Coding%20Lo--Fi-1DB954?style=for-the-badge&logo=spotify&logoColor=black" alt="Current Vibe" />
     <img src="https://img.shields.io/badge/Mode-Deep%20Focus%20%26%20Flow-black?style=for-the-badge&logo=applemusic&logoColor=white" alt="Soundtrack" />
   </p>
+</div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
+</p>
+
+<!-- ======================================================= -->
+<!--          LEETCODE ARENA & SUBMISSION HEATMAP            -->
+<!-- ======================================================= -->
+
+## ⚔️ LeetCode Arena & Submission Heatmap
+
+<div align="center">
   <p>
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="380" alt="Music Visualizer" />
+    <a href="https://leetcode.com/piyush5621/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Solved" />
+    </a>
+    <img src="https://img.shields.io/badge/Daily%20Streak-200%20Days%20Badge-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Streak" />
+    <img src="https://img.shields.io/badge/HackerRank-5%20Star%20Golden%20Java-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
   </p>
 
-  <p>
-    <sub>🎵 <em>"Good code requires coffee, curiosity, and lo-fi beats in dark mode."</em></sub>
-  </p>
+  <!-- ⚡ Dynamic LeetCode Heatmap & Performance Card -->
+  <a href="https://leetcode.com/piyush5621/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/piyush5621?theme=dark&font=Baloo&ext=heatmap" width="560" alt="LeetCode Heatmap Card" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
+</p>
+
+<!-- ======================================================= -->
+<!--             GITHUB LIVE ANALYTICS & 3D GRAPH            -->
+<!-- ======================================================= -->
+
+## 📊 GitHub Analytics & Live Contribution Activity
+
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/Piyush5621">
+    <img src="https://streak-stats.demolab.com?user=piyush5621&theme=tokyonight&hide_border=true&border_radius=8" width="55%" alt="GitHub Streak" />
+  </a>
+  <!-- Top Languages Bar Card -->
+  <a href="https://github.com/Piyush5621">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush5621&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="42%" alt="Top Languages" />
+  </a>
+</div>
+
+<br />
+
+### 🧱 GitHub 3D Contribution Graph:
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="GitHub 3D Contribution Graph" />
+</div>
+
+<br />
+
+### 🎮 Pac-Man Contribution Calendar:
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyush5621/piyush5621/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyush5621/piyush5621/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/piyush5621/piyush5621/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <!-- GitHub Overview Stats -->
+  <a href="https://github.com/Piyush5621">
+    <img src="https://github-readme-stats.vercel.app/api?username=piyush5621&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="GitHub Stats" />
+  </a>
+  <!-- Profile Details Summary Card -->
+  <a href="https://github.com/Piyush5621">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyush5621&theme=tokyonight" width="49%" alt="Profile Details" />
+  </a>
+</div>
+
+<br />
+
+<!-- 💬 Daily Developer Inspiration Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Inspirational Developer Quote" />
 </div>
 
 <p align="center">
@@ -220,85 +306,6 @@
 - 🏅 **600+ LeetCode Problems Solved:** Earned the prestigious **200-Day Streak Badge** for consistent daily problem-solving.
 - ⭐ **5-Star Java Rating:** Achieved 5-star golden badge on **HackerRank**.
 - 🎓 **Academic Excellence:** 8.13 CGPA in BTech CSE at Lovely Professional University.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</p>
-
-<!-- ======================================================= -->
-<!--          LEETCODE ARENA & ANIMATED STATS                -->
-<!-- ======================================================= -->
-
-## ⚔️ LeetCode Arena & Problem Solving
-
-<div align="center">
-  <p>
-    <a href="https://leetcode.com/piyush5621/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Solved" />
-    </a>
-    <img src="https://img.shields.io/badge/Daily%20Streak-200%20Days%20Badge-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Streak" />
-    <img src="https://img.shields.io/badge/HackerRank-5%20Star%20Golden%20Java-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
-  </p>
-
-  <!-- ⚡ Dynamic Animated Cyberpunk LeetCode Card -->
-  <a href="https://leetcode.com/piyush5621/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/piyush5621?theme=cyberpunk&font=Fira%20Code&ext=activity" width="550" alt="LeetCode Cyberpunk Activity Card" />
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</p>
-
-<!-- ======================================================= -->
-<!--             GITHUB LIVE ANALYTICS & STATS               -->
-<!-- ======================================================= -->
-
-## 📊 GitHub Analytics & Live Contribution Activity
-
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/Piyush5621">
-    <img src="https://streak-stats.demolab.com?user=piyush5621&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="GitHub Streak" />
-  </a>
-  <!-- GitHub Overview Stats -->
-  <a href="https://github.com/Piyush5621">
-    <img src="https://github-readme-stats.vercel.app/api?username=piyush5621&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="GitHub Stats" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Top Languages -->
-  <a href="https://github.com/Piyush5621">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush5621&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="Top Languages" />
-  </a>
-  <!-- Profile Details Summary Card -->
-  <a href="https://github.com/Piyush5621">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyush5621&theme=tokyonight" width="49%" alt="Profile Details" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Language Distribution Summary Card -->
-  <a href="https://github.com/Piyush5621">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyush5621&theme=tokyonight" width="49%" alt="Repos per Language" />
-  </a>
-  <!-- Stats Summary Card -->
-  <a href="https://github.com/Piyush5621">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyush5621&theme=tokyonight" width="49%" alt="Card Stats" />
-  </a>
-</div>
-
-<br />
-
-<!-- 💬 Daily Developer Inspiration Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Inspirational Developer Quote" />
-</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
