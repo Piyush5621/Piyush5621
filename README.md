@@ -1,28 +1,26 @@
-<!-- ======================================================= -->
-<!--                   HEADER & DEVELOPER ANIMATION          -->
-<!-- ======================================================= -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Piyush+Kumar;Backend+%26+Distributed+Systems+Engineer;AI+%26+RAG+Pipeline+Architect;600%2B+LeetCode+Problems+Solved+⚡;BTech+CSE+@+Lovely+Professional+University" alt="Typing SVG" />
-</div>
-
+<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Piyush+Kumar;Backend+%26+Distributed+Systems;AI+%26+RAG+Pipeline+Architect;600%2B+LeetCode+Problems+Solved+⚡;BTech+CSE+@+Lovely+Professional+University" alt="Typing SVG" />
 </p>
 
-<!-- 🌐 Top Social Links -->
+<!-- 🏡 Coding From Home Picture -->
+<p align="center">
+  <img width="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding From Home" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
+<h3 align="center">Backend Developer | BTech CSE @ LPU | Problem Solver</h3>
+
+<!-- 🌐 Quick Connect Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/piyushkumar5621" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
   <a href="mailto:piyushkk0206@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/piyush5621/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://github.com/Piyush5621" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -32,162 +30,100 @@
   </a>
 </p>
 
-<!-- 🚀 High-Tech Developer Coding Workspace Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Developer Workspace Animation" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piyush5621&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
+---
+
+<!-- ✅ ORIGINAL RIGHT-ALIGNED DEVELOPER CODING IMAGE -->
+<p align="right">
+  <img width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding" />
 </p>
 
-<!-- ======================================================= -->
-<!--                     ABOUT ME SECTION                    -->
-<!-- ======================================================= -->
+## 🚀 About Me
+- 🎓 **BTech in Computer Science & Engineering (2023–2027)**, Lovely Professional University (**CGPA: 8.13**)  
+- 💻 **Backend-focused Developer** specializing in Scalable Systems, High-Concurrency APIs, and Microservices  
+- 🧠 **AI & Distributed Architecture:** Retrieval-Augmented Generation (**RAG**) pipelines, local vector embeddings (`pgvector`), PostgreSQL, Redis caching, and BullMQ worker queues  
+- ⚡ **Problem Solving:** Solved **600+ LeetCode problems** (200-Day Daily Streak Badge 🏅) and earned a **5-Star Java Rating** on HackerRank  
+- 💬 *Code is not just logic, it's creativity & architecture.*  
+- ⚡ *Fun fact: I enjoy breaking systems... just to rebuild them faster & better 😄*  
 
-## 👨‍💻 About Me
+---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Developer Coding GIF" />
-</div>
+## 🔭 Currently Working On
+- **RecallAI:** AI-powered Knowledge Management & RAG Platform with vector search and asynchronous task processing  
+- **Karobaar:** Full-stack POS & Business Management platform with offline billing and financial analytics  
+- **Scalable Node.js & Express systems** and advanced DSA problem-solving  
 
-- 🎓 **Education:** BTech in Computer Science & Engineering @ **Lovely Professional University** (2023–2027) | **CGPA: 8.13**
-- 💻 **Backend Focus:** High-throughput Node.js & Express systems, RESTful API design, JWT authentication, and distributed worker queues.
-- 🧠 **AI & Distributed Systems:** Retrieval-Augmented Generation (**RAG**) pipelines with vector embeddings (`pgvector`), PostgreSQL, Redis caching, and BullMQ task queues.
-- ⚡ **Problem Solving:** Solved **600+ LeetCode problems** (200-Day Streak Badge 🏅) and earned a **5-Star Java Rating** on HackerRank.
-- 📫 **Get in Touch:** [piyushkk0206@gmail.com](mailto:piyushkk0206@gmail.com) | `+91-9798526058`
-- 💬 **Philosophy:** *"I enjoy breaking complex systems... just to re-engineer them faster and stronger."* 😄
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</p>
-
-<!-- ======================================================= -->
-<!--                   TECH STACK & TOOLBOX                  -->
-<!-- ======================================================= -->
-
-## 🛠️ Tech Stack & Skills: `</>`
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,c,py,nodejs,express,react,nextjs,tailwind,html,css,postgres,mysql,mongodb,redis,docker,githubactions,git,postman,vscode,linux,vercel&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,c,py,nodejs,express,react,nextjs,tailwind,html,css,postgres,mysql,mongodb,redis,docker,githubactions,git,postman,vscode,linux,vercel&theme=dark" alt="Skill Icons" />
 </p>
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</p>
+### 💻 Languages
+`Java` `JavaScript` `C++` `C` `Python` `SQL` `PHP`
 
 ### ⚙️ Backend & Architecture
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/BullMQ-FF4088?style=for-the-badge&logoColor=white" alt="BullMQ"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-00F7FF?style=for-the-badge&logo=openai&logoColor=black" alt="RAG"/>
-</p>
+`Node.js` `Express.js` `REST APIs` `JWT Auth` `Redis` `BullMQ` `RAG Pipelines`
 
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-</p>
+### 🎨 Frontend
+`React.js` `HTML5` `CSS3` `Tailwind CSS`
 
-### 🗄️ Databases & Vector Storage
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=cyan" alt="pgvector"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+### 🗄️ Database & Vector
+`PostgreSQL (Supabase)` `pgvector` `MySQL` `MongoDB`
 
-### 🛠️ DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
+### 🛠️ Tools & DevOps
+`Docker` `Git` `GitHub Actions` `Jenkins` `Postman` `VS Code` `Vercel` `Linux`
 
 ### 🧠 Core Computer Science
-<p align="left">
-  <img src="https://img.shields.io/badge/DSA-600%2B_Solved-4B0082?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
-  <img src="https://img.shields.io/badge/System_Design-005F73?style=for-the-badge" alt="System Design"/>
-  <img src="https://img.shields.io/badge/DBMS-0A9396?style=for-the-badge" alt="DBMS"/>
-  <img src="https://img.shields.io/badge/Operating_Systems-94D2BD?style=for-the-badge&logoColor=black" alt="OS"/>
-  <img src="https://img.shields.io/badge/OOPS-EE9B00?style=for-the-badge" alt="OOPS"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</p>
-
-<!-- ======================================================= -->
-<!--                   FEATURED PROJECTS                     -->
-<!-- ======================================================= -->
-
-## 🚀 Featured Projects
-
-### 🧠 [RecallAI](https://github.com/Piyush5621) — AI-Powered Knowledge Management & RAG Platform
-> *Jun 2026 – Present* | **`Node.js`** **`Express.js`** **`PostgreSQL`** **`pgvector`** **`Redis`** **`BullMQ`** **`RAG`** **`Docker`**
-- ⚡ Engineered an AI knowledge platform enabling users to upload, organize, and query multi-format documents via natural language with recursive text chunking and top-5 semantic retrieval.
-- 🔍 Built an end-to-end **Retrieval-Augmented Generation (RAG)** pipeline featuring local 384-dimensional embeddings, PostgreSQL + `pgvector` semantic indexing, and Groq LLM integration.
-- 🛡️ Implemented token-aware batching, controlled concurrency, and automated multi-model fallback across Groq and Google Gemini to eliminate API rate limits during large batch ingestion.
-- 📦 Decoupled heavy workloads using **Redis & BullMQ** for asynchronous document chunking and embedding generation.
+`Data Structures & Algorithms` `System Design` `DBMS` `Operating Systems` `OOPS`
 
 ---
 
-### 💼 [Karobaar](https://github.com/Piyush5621) — Business Management & POS Platform
-> *Feb 2026 – Mar 2026* | **`React`** **`Node.js`** **`Express.js`** **`Supabase (PostgreSQL)`** **`Redis`** **`BullMQ`** **`Tailwind CSS`**
-- 💳 Built role-based access control (RBAC) and JWT authentication with refresh tokens, paired with a POS billing module supporting discount/tax calculations, PDF invoice generation, and offline pause billing via IndexedDB.
-- 📦 Developed an inventory engine supporting FIFO batch tracking, product variants, and purchase orders, alongside a customer Khata ledger for credit tracking and WhatsApp payment reminders.
-- 📊 Implemented financial analytics with cash flow forecasting, integrated Google Gemini API for business query assistance, and optimized backend throughput using Redis caching and BullMQ queues.
+## 🚀 Projects
+
+### 🔹 RecallAI – AI-Powered Knowledge Management & RAG Platform
+- Engineered an AI knowledge platform enabling users to upload, organize, and query documents via natural language with recursive text chunking and top-5 semantic retrieval.  
+- Built an end-to-end **Retrieval-Augmented Generation (RAG)** pipeline with local 384-dimensional embeddings, PostgreSQL + `pgvector` semantic indexing, and Groq LLM integration.  
+- Implemented token-aware batching, controlled concurrency, and automated multi-model fallback across Groq and Gemini.  
+- Decoupled API and worker workloads using **Redis & BullMQ** for asynchronous document chunking and embedding generation.  
+- **Tech:** Node.js, Express.js, PostgreSQL, pgvector, Redis, BullMQ, RAG, Docker, Postman  
 
 ---
 
-### 🛒 [Anarchy Bay](https://github.com/Piyush5621) — Digital Marketplace Platform
-> *Oct 2025 – Nov 2025* | **`React`** **`Node.js`** **`Express.js`** **`Supabase`** **`Tailwind CSS`** **`Docker`** **`GitHub Actions`**
-- 🤝 Collaborated in a 3-member team to build a scalable digital marketplace featuring authentication, checkout flows, and product catalog management.
-- 🎨 Developed responsive customer-facing pages (Landing, Browse, Product Listing, Help Center, Contact) with React & Tailwind CSS.
-- 🔄 Automated application build and deployment pipelines using Docker and GitHub Actions with dynamic search and category filtering.
+### 🔹 Karobaar – Business Management & POS Platform
+- Built role-based access control (RBAC) and JWT authentication with refresh tokens, paired with a POS billing module supporting discount/tax calculations, PDF invoices, and Pause billing via IndexedDB.  
+- Developed an inventory engine supporting FIFO batch tracking, product variants, and purchase orders, alongside a customer Khata ledger for credit tracking and WhatsApp reminders.  
+- Implemented financial analytics with cash flow forecasting, Google Gemini API for business query assistance, and Redis caching.  
+- **Tech:** React, Node.js, Express.js, PostgreSQL (Supabase), Redis, BullMQ, Tailwind CSS, JWT, REST APIs  
 
 ---
 
-### 🏪 [NexaMart](http://nexamartstore.wuaze.com/) — B2B & B2C Marketing Platform
-> **`HTML5`** **`Tailwind CSS`** **`JavaScript`** **`PHP`** **`MySQL`**
-- 🛍️ Built a multi-vendor commerce platform with seller registration, real-time inventory management, DOM-based dynamic image previews, and administrator verification workflows.
+### 🔹 Anarchy Bay – Digital Marketplace
+- Full-stack marketplace system with authentication, secure checkout, and product management.  
+- Responsive customer-facing modules (Landing, Browse, Listing, Help Center, Contact) with React and Tailwind CSS.  
+- Automated Docker and GitHub Actions workflows with dynamic search and category filtering.  
+- **Tech:** React, Node.js, Express.js, JavaScript, Supabase (PostgreSQL), Tailwind CSS, Docker, GitHub Actions  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</p>
+---
 
-<!-- ======================================================= -->
-<!--                 SPOTIFY SOUNDTRACK SECTION              -->
-<!-- ======================================================= -->
+### 🔹 NexaMart – Marketing Platform
+- B2B + B2C platform with seller system & inventory management.  
+- Dynamic image preview using DOM & administrator approval workflow.  
+- **Tech:** HTML, Tailwind CSS, JS, PHP, MySQL  
+
+---
 
 ## 🎧 Coding Soundtrack & Spotify Vibe
 
 <div align="center">
   <!-- Exact Animated Spotify Player Card -->
   <a href="https://open.spotify.com/search/Eric%20Reprid%2080%20Proof" target="_blank">
-    <img src="assets/spotify.svg" alt="Spotify 80 Proof by Eric Reprid" width="460" />
+    <img src="https://github.com/Piyush5621/Piyush5621/blob/main/assets/spotify.svg?raw=true" alt="Spotify 80 Proof by Eric Reprid" width="460" />
   </a>
 
   <br /><br />
@@ -201,119 +137,87 @@
   </p>
 </div>
 
+---
+
+## 🏆 LeetCode Stats & Submission Heatmap
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</p>
-
-<!-- ======================================================= -->
-<!--          LEETCODE ARENA & SUBMISSION HEATMAP            -->
-<!-- ======================================================= -->
-
-## ⚔️ LeetCode Arena & Submission Heatmap
-
-<div align="center">
-  <p>
-    <a href="https://leetcode.com/piyush5621/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Solved" />
-    </a>
-    <img src="https://img.shields.io/badge/Daily%20Streak-200%20Days%20Badge-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Streak" />
-    <img src="https://img.shields.io/badge/HackerRank-5%20Star%20Golden%20Java-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
-  </p>
-
-  <!-- ⚡ Dynamic LeetCode Heatmap & Performance Card -->
   <a href="https://leetcode.com/piyush5621/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/piyush5621?theme=dark&font=Baloo&ext=heatmap" width="560" alt="LeetCode Heatmap Card" />
+    <img src="https://img.shields.io/badge/LeetCode-600%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Solved" />
   </a>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
+  <img src="https://img.shields.io/badge/Daily%20Streak-200%20Days%20Badge-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Streak" />
+  <img src="https://img.shields.io/badge/HackerRank-5%20Star%20Golden%20Java-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
 </p>
 
-<!-- ======================================================= -->
-<!--             GITHUB LIVE ANALYTICS & 3D GRAPH            -->
-<!-- ======================================================= -->
-
-## 📊 GitHub Analytics & Live Contribution Activity
-
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/Piyush5621">
-    <img src="https://streak-stats.demolab.com?user=piyush5621&theme=tokyonight&hide_border=true&border_radius=8" width="55%" alt="GitHub Streak" />
-  </a>
-  <!-- Top Languages Bar Card -->
-  <a href="https://github.com/Piyush5621">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush5621&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="42%" alt="Top Languages" />
-  </a>
-</div>
-
-<br />
-
-### 🧱 GitHub 3D Contribution Graph:
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="GitHub 3D Contribution Graph" />
-</div>
-
-<br />
-
-### 🎮 Pac-Man Contribution Calendar:
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyush5621/piyush5621/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyush5621/piyush5621/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/piyush5621/piyush5621/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
-  </picture>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- GitHub Overview Stats -->
-  <a href="https://github.com/Piyush5621">
-    <img src="https://github-readme-stats.vercel.app/api?username=piyush5621&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="GitHub Stats" />
-  </a>
-  <!-- Profile Details Summary Card -->
-  <a href="https://github.com/Piyush5621">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyush5621&theme=tokyonight" width="49%" alt="Profile Details" />
-  </a>
-</div>
-
-<br />
-
-<!-- 💬 Daily Developer Inspiration Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Inspirational Developer Quote" />
-</div>
-
+<!-- ⚡ Dynamic LeetCode Heatmap & Performance Card -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
+  <a href="https://leetcode.com/piyush5621/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/piyush5621?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Heatmap Card" />
+  </a>
 </p>
 
-<!-- ======================================================= -->
-<!--              CERTIFICATIONS & ACHIEVEMENTS              -->
-<!-- ======================================================= -->
+---
 
-## 🏆 Certifications & Achievements
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush5621&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush5621&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush5621&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🧱 GitHub 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Piyush5621/Piyush5621/blob/main/profile-3d-contrib/profile-night-view.svg?raw=true" width="100%" alt="GitHub 3D Contribution Graph" />
+</p>
+
+---
+
+## 📜 Certifications & Achievements
 
 ### 📜 Certifications
-- 🔹 **Build Generative AI Apps and Solutions** — *Infosys Springboard* (Sep 2025)
-- 🔹 **Industry-Oriented DSA Backend Development Program** — *CipherSchools* (Jul 2025)
-- 🔹 **Cloud Computing** — *NPTEL* (Apr 2025)
+- 🔹 **Build Generative AI Apps and Solutions** — *Infosys Springboard* (Sep 2025)  
+- 🔹 **Industry-Oriented DSA Backend Development Program** — *CipherSchools* (Jul 2025)  
+- 🔹 **Cloud Computing** — *NPTEL* (Apr 2025)  
 
 ### 🌟 Milestones
-- 🏅 **600+ LeetCode Problems Solved:** Earned the prestigious **200-Day Streak Badge** for consistent daily problem-solving.
-- ⭐ **5-Star Java Rating:** Achieved 5-star golden badge on **HackerRank**.
-- 🎓 **Academic Excellence:** 8.13 CGPA in BTech CSE at Lovely Professional University.
+- 🏅 **600+ LeetCode Problems Solved:** Earned the prestigious **200-Day Streak Badge** through consistent problem solving.  
+- ⭐ **5-Star Java Rating:** Achieved 5-star golden badge on **HackerRank**.  
+- 🎓 **Academic Excellence:** 8.13 CGPA in BTech CSE at Lovely Professional University.  
 
+---
+
+<!-- 💬 Daily Developer Inspiration Quote -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Inspirational Developer Quote" />
 </p>
 
-<!-- ======================================================= -->
-<!--                 FOOTER & VISITOR COUNTER                -->
-<!-- ======================================================= -->
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:piyushkk0206@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/piyushkumar5621/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="http://nexamartstore.wuaze.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
 
 <div align="center">
   <!-- Visitor Count Hits Badge -->
@@ -331,7 +235,3 @@
     <em>Let's connect and build something impactful together!</em>
   </p>
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
-</p>
